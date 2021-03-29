@@ -4,7 +4,7 @@ The Kochava Unity SDK is a lightweight plugin which can be easily integrated int
 [![Download](https://img.shields.io/github/v/release/Kochava/Unity-KochavaTracker-Releases?include_prereleases&sort=semver)](https://github.com/Kochava/Unity-KochavaTracker-Releases/releases)
 
 ### Installation
-[Unity - SDK Integration](https://support.kochava.com/sdk-integration/unity-sdk-integration/)
+[SDK Integration](https://support.kochava.com/sdk-integration/unity-sdk-integration/)
 
 ### Support
 support@kochava.com
